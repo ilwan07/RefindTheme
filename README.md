@@ -2,6 +2,8 @@
 
 A mix of rEFInd themes to make my own one
 
+![https://raw.githubusercontent.com/ilwan07/RefindTheme/refs/heads/main/screenshots/screenshot.png](https://raw.githubusercontent.com/ilwan07/RefindTheme/refs/heads/main/screenshots/screenshot.png)
+
 How to install:
 
 Clone this repository, and put the `refind-mix-theme` folder in your rEFInd themes folder (usually `/boot/efi/EFI/refind/themes`)
